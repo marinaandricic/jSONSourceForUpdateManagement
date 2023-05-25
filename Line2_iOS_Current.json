@@ -1,0 +1,11 @@
+{
+  "releaseDate": "2023-05-09 12:00.00+000",
+  "platform": "iOS",
+  "platformMinTarget": "13",
+  "version": "12.14.1",
+  "type": "mandatory",
+  "updateBy": "2023-05-16 12:00.00+000",
+  "reminders": "3",
+  "updateURL": "https://apps.apple.com/us/app/line2-second-phone-number/id319185557?itsct=apps_box_link&itscg=30200" 
+  "latestMandatoryVersion": "12.13"
+} 
